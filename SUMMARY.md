@@ -1,7 +1,7 @@
-# Contents
+# Table of contents
 
 * [코어 리액트](README.md)
 
-## 제목 1
+## 😄 시작 전 스케치 <a href="#before-start" id="before-start"></a>
 
-* [Page 1](group-1/page-1.md)
+* [아이디어](before-start/page-1.md)
