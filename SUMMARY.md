@@ -1,6 +1,6 @@
-# 코어 리액트
+# Contents
 
-* [README](README.md)
+* [코어 리액트](README.md)
 
 ## 제목 1
 
