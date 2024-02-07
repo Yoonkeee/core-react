@@ -1,9 +1,7 @@
-# Table of contents
+# 코어 리액트
 
 * [README](README.md)
 
-## 제목2
-
-## Group 1
+## 제목 1
 
 * [Page 1](group-1/page-1.md)
