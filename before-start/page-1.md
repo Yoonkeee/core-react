@@ -6,7 +6,7 @@ description: 코어 리액트에 포함될 키워드들을 간략하게 정리�
 
 ## 코어 리액트에 포함될 개념들
 
-* Jsx
+* JSX
 * Fiber Architecture 파이버
 * Reconciler 재조정자
 * Reconciliation 재조정
@@ -18,6 +18,7 @@ description: 코어 리액트에 포함될 키워드들을 간략하게 정리�
   * useState
   * useEffect
   * useMemo
+  * use
 * Libraries
   * Tanstack Query
   * Axios
